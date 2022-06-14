@@ -1,0 +1,30 @@
+CSS stands for Cascading Style Sheets.
+CSS is a standard style sheet language used for describing the presentation (i.e. the layout and formatting) of the web pages.
+
+CSS3 is the latest version of the CSS.
+
+Advantages of Using CSS:
+------------------------
+CSS Save Lots of Time
+Easy Maintenance
+Pages Load Faster
+Superior Styles to HTML
+Multiple Device Compatibility
+
+What is Selector?
+-------------------
+A CSS selector is a pattern to match the elements on a web page
+
+	Universal Selector  --> *
+	Element Type Selectors --> html element
+	Id Selectors		--> #
+	Class Selectors		--> .
+	Grouping Selectors
+
+How to Including CSS in HTML Documents?
+---------------------------------------
+Inline css: Using the style attribute in the HTML start tag.
+
+Embedded css/Internal css: Using the <style> element in the head section of a document.
+
+External css: Using the <link> element, pointing to an external CSS file.

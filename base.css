@@ -1,0 +1,26 @@
+body{
+     background:powderblue;
+    }
+
+*{        
+    font-style:italic;
+    font-family:elephant; 
+    font-size:20px;  
+   }
+h1{
+    color:red;
+    text-align:center;
+  }
+
+h2{
+   color:purple;  
+  } 
+
+p{
+    color:yellow;    
+  } 
+
+   
+
+
+
